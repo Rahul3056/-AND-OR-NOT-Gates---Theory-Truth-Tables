@@ -62,5 +62,5 @@ In digital logic, basic gates like AND, OR, and NOT are the building blocks of c
 ### Real-World Example for Practice
 - Design a **4-input AND gate** that activates an alarm only when four conditions are true (e.g., all doors locked, windows closed, security mode enabled, and sensors activated).
 
-Would you like to proceed with **Day 3: XOR and XNOR Gates - Theory & Truth Tables** next?
+
 
